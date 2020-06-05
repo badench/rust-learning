@@ -1,0 +1,4 @@
+rustc/target/*
+rustc/Cargo.lock
+*.o
+main
